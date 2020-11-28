@@ -1,2 +1,2 @@
 Git is a system
-Git is free software GPL
+Git is free software
